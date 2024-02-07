@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+html{
+    margin: 0px;
+    padding: 10px;
+    background-color: white;
+}
+
+body{
+    height: 95vh;
+    margin: auto;
+    width: 800px;
+    background-color: rgb(196, 255, 255);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+p{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+
+}
+
+
+main > p{
+    width: 40vw;
+}
+
+#first{
+    font-size: larger;
+    display: inline-block;
+    right: 0px;
+    text-align: right;
+}
+.images{
+    display: inline-block;
+    width: 40vw;
+}
+
+#firstimage{
+    width: 20vw;
+    display: inline-block;
+    margin: auto;
+}
